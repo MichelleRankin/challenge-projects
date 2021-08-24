@@ -1,0 +1,77 @@
+/*Given code*/
+body {
+    padding: auto;
+}
+
+svg {
+    width: 5em;
+}
+
+h1 {
+    font-size: auto;
+    font-weight: auto;
+}
+
+.card p {
+    font-size: auto;
+    line-height: auto;
+    color: auto;
+}
+
+a {
+    background: auto;
+    padding: auto;
+    margin-top: auto;
+}
+/*My solution*/
+
+body {
+    padding: 2em;
+}
+
+svg {
+    width: 4em;
+}
+
+h1 {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.card p {
+    font-size: 16px;
+    line-height: 1.2em;
+    color: #474747;
+}
+
+a {
+    background: grey;
+    padding: .5em 2em;
+    margin-top: 1.2em;
+}
+
+/*Instructors solution*/
+
+body {
+    padding: 1.5em;
+}
+
+svg {
+    width: 2.7em;
+}
+
+h1 {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.card p {
+    line-height: 1.9em;
+    color: auto;
+}
+
+a {
+    background: #e9e9e9;
+    padding: .7em 2em;
+    margin-top: 1em;
+}
